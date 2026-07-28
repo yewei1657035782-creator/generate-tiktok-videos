@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reusable Product Video Studio"
+  short_description: "Generate selected-style, watermark-free product video clips"
+  default_prompt: "Use $generate-tiktok-videos to create separate watermark-free product video clips through an official export route, rejecting any 可灵/Kling watermark and without assembling a full video."
